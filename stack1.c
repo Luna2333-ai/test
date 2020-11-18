@@ -103,6 +103,7 @@ Status StackTraverse(SqStack S)
 
 int main(int argc, char const *argv[])
 {
+	int x;
 	int j;
 	SqStack s;
 	int e;

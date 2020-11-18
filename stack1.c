@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-#include<time.h>
+#include<time.h>//我是李睿 我修改了这儿
 
 #define OK 1
 #define ERROR 0
